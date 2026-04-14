@@ -40,8 +40,8 @@ dev = [
 saintbot-cli = "crypto_trading_cli.main:cli"
 
 [project.urls]
-Homepage = "https://github.com/your-org/crypto-trading-cli"
-Issues = "https://github.com/your-org/crypto-trading-cli/issues"
+Homepage = "https://github.com/SaintQuant/saintquant-crypto-trading-cli"
+Issues = "https://github.com/SaintQuant/saintquant-crypto-trading-cli/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["crypto_trading_cli"]
